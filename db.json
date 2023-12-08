@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "nombre": "Luis",
+      "apellido": "Arenas",
+      "email": "dylancastillo451@gmail.com",
+      "telefono": "551-118-9830",
+      "empresa": "APPLE",
+      "puesto": "developer",
+      "estado": true,
+      "id": 4
+    }
+  ]
+}
